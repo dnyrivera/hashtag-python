@@ -1,0 +1,16 @@
+# Chaves e configurações secretas
+.env
+
+# Ambiente virtual
+.venv/
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Banco de dados local
+contacts.db
+
+# Arquivos do macOS
+.DS_Store
+.pylintrc
